@@ -1,0 +1,7 @@
+# Core dependencies
+rich>=13.0.0      # Terminal UI — tables, panels, colors, progress bars
+psutil>=5.9.0     # CPU and RAM detection (cross-platform)
+GPUtil>=1.4.0     # NVIDIA GPU detection (optional but recommended)
+
+# Note: all packages are auto-installed on first run if missing.
+# You can also install them manually with: pip install -r requirements.txt
