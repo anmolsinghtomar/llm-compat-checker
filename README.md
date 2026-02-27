@@ -11,7 +11,7 @@ lag, and what will melt your laptop.
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-compat-checker.git
+git clone https://github.com/anmolsinghtomar/llm-compat-checker
 cd llm-compat-checker
 pip install -r requirements.txt
 python checker.py
